@@ -1,0 +1,36 @@
+GDD Shiritori Treater.
+
+About GDD 2010 JP
+==========================
+Google Developer Day 2010 Japan Tokyo.
+http://www.google.co.jp/events/developerday/2010/tokyo/
+
+About GDD 2010 JP DevQuiz
+==========================
+Everybody need to answer the DevQuiz to earn a ticket.
+http://www.google.co.jp/events/developerday/2010/tokyo/devquiz.html
+
+About GDD Shiritori
+==========================
+This is a simple tool to help me fight with DevQuiz's bot. The main
+purpose is make sure I won't lose after I made a choice. This application
+does not intend to find out all the possible route to win, because 
+the possible route could be too many to view. On the other hand, 
+it is a game playing with GDD Shiritori bot, there is no need to 
+find out all the possible routes.
+
+
+About しりとり(Shiritori)
+==========================
+http://ja.wikipedia.org/wiki/%E3%81%97%E3%82%8A%E3%81%A8%E3%82%8A
+サーバーとしりとりで勝負していただきます。
+3 つのレベルがありますので、それぞれのレベルでサーバーに勝ってください。サーバーに勝つと、レベルに応じた点数が加算されます。
+サーバーが先手です。上のリンクをクリックすると、サーバーから辞書（使用可能な単語のセット）と初手が提示されますので、それに続いてください。
+しりとりの途中でブラウザを閉じても、上のリンクをクリックすれば再開できます。
+手詰まりなどの理由で、ゲームをやり直したいときはゲームをリセットというボタンを押してください。新しいゲームが始まります。
+サーバーに一度勝った後は、そのレベルで新しいゲームを始めることはできません。別のレベルに挑戦してください。
+
+Have fun.
+
+Tonny Xu
+2010.09.02
