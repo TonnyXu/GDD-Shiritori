@@ -39,7 +39,7 @@
 		E1A76ADE121E434600177E0E /* WordTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WordTableViewController.xib; sourceTree = "<group>"; };
 		E1A76AE1121E439300177E0E /* AllData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllData.h; sourceTree = "<group>"; };
 		E1A76AE2121E439300177E0E /* AllData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllData.m; sourceTree = "<group>"; };
-		E1A76AE4121E44CE00177E0E /* SynthesizeSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SynthesizeSingleton.h; path = ../../decotwit/trunk/headers/SynthesizeSingleton.h; sourceTree = SOURCE_ROOT; };
+		E1A76AE4121E44CE00177E0E /* SynthesizeSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SynthesizeSingleton.h; path = Classes/SynthesizeSingleton.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
